@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and a **
 ---
 
 ## 🚀 About Me  
-- 💻 Currently learning **Cloud Computing** and **Big Data**.  
+- 💻 Currently learning **Flutter**.  
 - 🛠️ Skilled in **HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, **SQL**, and **Git**.  
 - 🎓 Certified in **SQL Basics** by HackerRank.
 - 🌱 Continuously learning and growing in the field of technology to enhance my skills.  
@@ -21,4 +21,4 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and a **
 ![](https://github-readme-streak-stats.herokuapp.com/?user=naikraghav&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naikraghav&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
+![snake gif](https://github.com/naikraghav/naikraghav/blob/output/github-snake-dark.svg)
