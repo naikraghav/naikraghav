@@ -1,5 +1,14 @@
-# 💫 About Me:
-# Hi there! 👋 I'm Raghav  <br>Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and a **Computer Science Student** with a keen interest in creating innovative solutions for real-world problems. I enjoy exploring modern technologies, building projects, and sharing my knowledge.  <br><br>---<br><br>## 🚀 About Me  <br>- 💻 Currently learning **Cloud Computing** and **Big Data**.  <br>- 🛠️ Skilled in **HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, **SQL**, and **Git**.  <br>- 🎓 Certified in **SQL Basics** by HackerRank. <br>- 🌱 Continuously learning and growing in the field of technology to enhance my skills.  <br>- 🌟 Passionate about building innovative solutions and staying updated with the latest trends in software development.<br>
+# Hi there! 👋 I'm Raghav  
+Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and a **Computer Science Student** with a keen interest in creating innovative solutions for real-world problems. I enjoy exploring modern technologies, building projects, and sharing my knowledge.  
+
+---
+
+## 🚀 About Me  
+- 💻 Currently learning **Cloud Computing** and **Big Data**.  
+- 🛠️ Skilled in **HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, **SQL**, and **Git**.  
+- 🎓 Certified in **SQL Basics** by HackerRank.
+- 🌱 Continuously learning and growing in the field of technology to enhance my skills.  
+- 🌟 Passionate about building innovative solutions and staying updated with the latest trends in software development
 
 
 ## 🌐 Socials:
@@ -12,4 +21,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=naikraghav&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naikraghav&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
